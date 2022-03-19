@@ -10,4 +10,4 @@ This repository will contain:
 * an HTML file
 * a CSS file.
 
-This project can be run by install all the files in the repository, installing the requirements from the file, and running the FlaskApp.py file, then copying the link where the code is running on your local machine.
+This project can be run by installing all the files in the repository, installing the requirements from the file, and running the FlaskApp.py file, then copying the link where the code is running on your local machine.
